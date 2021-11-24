@@ -1,1 +1,1 @@
-# EPIC-ARCHERY-S5
+# project-C25-template
